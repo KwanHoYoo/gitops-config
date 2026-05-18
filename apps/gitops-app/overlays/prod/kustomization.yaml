@@ -6,6 +6,7 @@ namespace: gitops-app-prod
 namePrefix: prod-
 commonLabels:
   env: prod
+
 images:
   - name: gitops-app
     newName: gwanhoyoo/gitops-app
