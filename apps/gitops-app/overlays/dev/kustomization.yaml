@@ -9,7 +9,7 @@ commonLabels:
 images:
 - name: gitops-app
   newName: dockerlecture/gitops-app
-  newTag: sha-8d6377b
+  newTag: sha-96fb80a
 
 replicas:
 - count: 1
