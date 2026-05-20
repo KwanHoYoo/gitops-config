@@ -8,6 +8,8 @@ namespace: ops-app1-dev
 
 images:
 - name: ops-app1
+  newName: 648592435022.dkr.ecr.ap-northeast-2.amazonaws.com/ops-app1
+  newTag: sha-0f490d6
 
 patches:
 - patch: |-
