@@ -10,8 +10,8 @@ namespace: ops-app1-eks-dev
 
 images:
   - name: ops-app1
-    newName: <aws-account-id>.dkr.ecr.ap-northeast-2.amazonaws.com/ops-app1
-    newTag: "sha-placeholder"
+    newName: 648592435022.dkr.ecr.ap-northeast-2.amazonaws.com/ops-app1
+    newTag: "sha-373ea83"
 
 patches:
   - patch: |-
