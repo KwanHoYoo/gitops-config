@@ -9,7 +9,7 @@ namespace: ops-app2-eks-dev
 
 images:
   - name: ops-app2
-    newName: <aws-account-id>.dkr.ecr.ap-northeast-2.amazonaws.com/ops-app2
+    newName: 648592435022.dkr.ecr.ap-northeast-2.amazonaws.com/ops-app2
     newTag: "sha-placeholder" # CI가 자동 업데이트
 
 patches:
